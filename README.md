@@ -1,1 +1,1 @@
-Учёба golang
+Учёба golang!
